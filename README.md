@@ -9,3 +9,5 @@
 * 前期 第3週（4月24日）： オペレーティングシステムとプログラミング（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-03.pdf)
 * 前期 第4週（5月8日）： オペレーティングシステムとプログラミング（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-04.pdf), [cat.txt](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/cat.txt)
 * 前期 第5週（5月15日）： オペレーティングシステムとプログラミング（3）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-05.pdf)
+* 前期 第6週（5月22日）： ソースコードの管理（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-06.pdf), 
+[gitのプロキシをONにするシェルスクリプト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/gpon.sh), [gitのプロキシをOFFにするシェルスクリプト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/gpoff.sh)
