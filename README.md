@@ -15,7 +15,7 @@
 * 前期 第7週： [前期中間試験](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/前期中間試験2018.pdf)
 * 前期 第8週（6月12日）： 試験返却と解説
 * 前期 第9週（6月19日）： アルゴリズム･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-09.pdf), [9_max1.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/9_max1.c), [9_max2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/9_max2.c), [9_prime1.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/9_prime1.c), [9_prime2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/9_prime2.c), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-09-ans.pdf)
-* 前期 第10週（6月26日）： 再帰処理･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-10.pdf), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-10-ans.pdf)
+* 前期 第10週（6月26日）： 再帰処理（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-10.pdf), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-10-ans.pdf)
 * 前期 第11週（7月3日）： 再帰処理（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-11.pdf), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-11-ans.pdf)
 * 前期 第12週（7月10日）：研修旅行のため休講
 * 前期 第13週（7月17日）： 探索アルゴリズム（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-13.pdf), [13_show.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/13_show.c), [13_search.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/13_search.c), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-13-ans.pdf)
