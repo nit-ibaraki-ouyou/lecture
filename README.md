@@ -6,6 +6,7 @@
 ## 講義資料（後期）
 * 後期 第1週（9月20日）： アルゴリズム(3)･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-01.pdf), [課題プログラム例](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-01-ans.c)
 * 後期 第2週（9月27日）： アルゴリズム(4)･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-02.pdf)
+* 後期 第3週（10月4日）： アルゴリズム(5)･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-03.pdf)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-01.pdf)
