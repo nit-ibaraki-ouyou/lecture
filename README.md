@@ -11,6 +11,8 @@
 * 後期 第5週（10月25日）： 計算モデル（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05.pdf), [2_05_even.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_05_even.c), [課題5-1](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans1.c), [課題5-2](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans2.c), [課題5-3](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans3.c)
 * 後期 第6週（11月1日）： 計算モデル（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06.pdf), [課題6-1, 6-2](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-ans1.c), [課題6-3](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-ans2.c)
 * 小テストの問題と解答：[第6週小テスト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-test.pdf)
+* 前期 第7週： 前期中間試験
+* 後期 第8週（11月15日）： 言語処理系（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-08.pdf), [calc.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.lex), [calc.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.yacc)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-01.pdf)
