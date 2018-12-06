@@ -13,6 +13,9 @@
 * 小テストの問題と解答：[第6週小テスト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-test.pdf)
 * 前期 第7週： 前期中間試験
 * 後期 第8週（11月15日）： 言語処理系（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-08.pdf), [calc.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.lex), [calc.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.yacc)
+* 後期 第9週（11月22日）：試験返却
+* 後期 第10週（12月6日）：言語処理系（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-10.pdf)
+
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-01.pdf)
