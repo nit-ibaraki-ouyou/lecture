@@ -1,0 +1,115 @@
+//--------------------------------------------------
+//array.lex
+//--------------------------------------------------
+%%
+"clear" return CLEAR;
+"exit" return EXIT;
+"show" return SHOW;
+"set"  return SET;
+"sum"  return SUM;
+"set2" return SET2;
+"ave"  return AVE;
+"\n" return NL;
+
+[0-9]+ {
+  yylval = atoi(yytext);
+  return NUMBER;
+}
+%%
+
+//--------------------------------------------------
+//array.yacc
+//--------------------------------------------------
+%token NL NUMBER
+%token CLEAR EXIT SHOW SET SUM SET2 AVE
+%%
+list :
+     | list cmd NL       { printf("\n"); }
+     ;
+cmd  : CLEAR             { clear(); }
+     | EXIT              { exit(0); }
+     | SHOW              { show(); }
+     | SET NUMBER NUMBER { set($2, $3); }
+     | SUM               { sum(); }
+     | SET2 NUMBER NUMBER NUMBER { set2($2, $3, $4); }
+     | AVE               { ave(); }
+     ;
+%%
+#include <stdio.h>
+#include "lex.yy.c"
+#include "myproc.h"
+
+//--------------------------------------------------
+//myproc.h
+//--------------------------------------------------
+int a[10];
+
+int clear();
+int show();
+int set(int i, int n);
+int sum();
+int set2(int s, int e, int n);
+int ave();
+
+//--------------------------------------------------
+//myproc.c
+//--------------------------------------------------
+#include <stdio.h>
+#include "myproc.h"
+
+int clear()
+{
+    int i;
+    for(i=0; i<10; i++) {
+	a[i] = 0;
+    }
+    return 0;
+}
+
+int show(void)
+{
+    int i;
+    for(i=0; i<10; i++) {
+	printf("%d ", a[i]);
+    }
+    printf("\n");
+    return 0;
+}
+
+int set(int i, int n)
+{
+    a[i] = n;
+    return 0;
+}
+
+int sum()
+{
+    int r = 0;
+    int i;
+    for(i=0; i<10; i++) {
+	r += a[i];
+    }
+    printf("%d\n", r);
+    return 0;
+}
+
+int set2(int s, int e, int n)
+{
+    int i;
+    for(i=s; i<=e; i++) {
+	a[i] = n;
+    }
+    return 0;
+}
+
+int ave()
+{
+    double r = 0;
+    int i;
+    for(i=0; i<10; i++) {
+	r += a[i];
+    }
+    r = r / 10;
+    printf("%lf\n", r);
+    return 0;
+}
