@@ -16,6 +16,7 @@
 * 後期 第9週（11月22日）：試験返却
 * 後期 第10週（12月6日）：言語処理系（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-10.pdf)
 * 後期 第11週（12月13日）：言語処理系（3）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-11.pdf), [calc2.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc2.lex), [calc2.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc2.yacc), [myproc.h](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/myproc.h), [myproc.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/myproc.c)
+* 後期 第12週（12月20日）：言語処理系（4）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-12.pdf), [array.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_12_tmpl/array.lex), [array.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_12_tmpl/array.yacc), [myproc.h](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_12_tmpl/myproc.h), [myproc.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_12_tmpl/myproc.c)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-01.pdf)
