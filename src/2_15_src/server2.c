@@ -1,5 +1,5 @@
 /*
-  構造体のTCPクラアイントプログラム
+  構造体のTCPサーバプログラム
 */
 #include <stdio.h>
 #include <stdlib.h>
