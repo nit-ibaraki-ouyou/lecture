@@ -11,7 +11,7 @@
 * 後期 第5週（10月25日）： 計算モデル（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05.pdf), [2_05_even.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_05_even.c), [課題5-1](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans1.c), [課題5-2](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans2.c), [課題5-3](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-05-ans3.c)
 * 後期 第6週（11月1日）： 計算モデル（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06.pdf), [課題6-1, 6-2](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-ans1.c), [課題6-3](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-ans2.c)
 * 小テストの問題と解答：[第6週小テスト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-06-test.pdf)
-* 前期 第7週： 前期中間試験
+* 前期 第7週： 前期中間試験(https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/後期中間試験2018.pdf)
 * 後期 第8週（11月15日）： 言語処理系（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-08.pdf), [calc.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.lex), [calc.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/calc.yacc)
 * 後期 第9週（11月22日）：試験返却
 * 後期 第10週（12月6日）：言語処理系（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-10.pdf), 【課題10-1〜10-3】[calc_ans1.lex](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_10_ans/calc_ans1.lex), [calc_ans1.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_10_ans/calc_ans1.yacc), 【課題10-4】[calc_zenchi_ans.yacc](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_10_ans/calc_zenchi_ans.yacc)（lexファイルは変更なし）
@@ -21,6 +21,7 @@
 * 後期 第14週（1月17日）：コンピュータネットワーク（1）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-14.pdf), [client.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_14_src/client.c), [server.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_14_src/server.c), 【課題14-1】[server_14_1.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_14_src/server_14_1.c)（クライアントは変更なし）, 【課題14-2】[server_14_2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_14_src/server_14_2.c), [client_14_2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_14_src/client_14_2.c)
 * 後期 第15週（1月24日）：コンピュータネットワーク（2）･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-15.pdf), [client2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_15_src/client2.c), [server2.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_15_src/server2.c), 【課題15-1, 15-2】[server2_ans.c](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/2_15_src/server2_ans.c)（クライアントは変更なし）
 * 小テストの問題と解答：[第12週小テスト](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou2-12-test.pdf)
+* 後期 第16週： [後期期末試験](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/後期期末試験2018.pdf)
 
 ## 講義資料（前期）
 * 前期 第1週（4月10日）： 準備･･･[講義資料](https://github.com/nit-ibaraki-ouyou/lecture/raw/master/src/ouyou1-01.pdf)
